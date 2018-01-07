@@ -117,6 +117,7 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libasn1cper.so:system/vendor/lib/libasn1cper.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libasn1crt.so:system/vendor/lib/libasn1crt.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libasn1crtx.so:system/vendor/lib/libasn1crtx.so \
+    vendor/lenovo/kingdom/proprietary/vendor/lib/libaptX_encoder.so:system/vendor/lib/libaptX_encoder.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
