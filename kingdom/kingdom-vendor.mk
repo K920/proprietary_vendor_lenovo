@@ -1,4 +1,5 @@
-# Copyright (C) 2017 The LineageOS Project
+# Copyright (C) 2015-2016 The CyanogenMod Project
+# Copyright (C) 2017-2018 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -19,6 +20,7 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/kingdom/proprietary/vendor/bin/btnvtool:system/vendor/bin/btnvtool \
     vendor/lenovo/kingdom/proprietary/vendor/bin/diag_mdlog:system/vendor/bin/diag_mdlog \
     vendor/lenovo/kingdom/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
+    vendor/lenovo/kingdom/proprietary/vendor/bin/hvdcp:system/vendor/bin/hvdcp \
     vendor/lenovo/kingdom/proprietary/vendor/bin/irsc_util:system/vendor/bin/irsc_util \
     vendor/lenovo/kingdom/proprietary/vendor/bin/mm-qcamera-daemon:system/vendor/bin/mm-qcamera-daemon \
     vendor/lenovo/kingdom/proprietary/vendor/bin/mpdecision:system/vendor/bin/mpdecision \
@@ -199,6 +201,7 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libsensor_reg.so:system/vendor/lib/libsensor_reg.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libsmemlog.so:system/vendor/lib/libsmemlog.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libssd.so:system/vendor/lib/libssd.so \
+    vendor/lenovo/kingdom/proprietary/vendor/lib/libstlport.so:system/vendor/lib/libstlport.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libsystem_health_mon.so:system/vendor/lib/libsystem_health_mon.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
