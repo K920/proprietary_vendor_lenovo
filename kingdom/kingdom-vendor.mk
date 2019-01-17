@@ -67,7 +67,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/kingdom/proprietary/vendor/etc/tfa98xx/TFA9890_N1B12_N1C3_v2.config:vendor/etc/tfa98xx/TFA9890_N1B12_N1C3_v2.config \
     vendor/lenovo/kingdom/proprietary/vendor/etc/tfa98xx/TFA9890_N1C3_1_7_1.patch:vendor/etc/tfa98xx/TFA9890_N1C3_1_7_1.patch \
     vendor/lenovo/kingdom/proprietary/vendor/etc/tfa98xx/coldboot.patch:vendor/etc/tfa98xx/coldboot.patch \
-    vendor/lenovo/kingdom/proprietary/vendor/framework/ConnectivityExt.jar:vendor/framework/ConnectivityExt.jar \
     vendor/lenovo/kingdom/proprietary/vendor/framework/qcnvitems.jar:vendor/framework/qcnvitems.jar \
     vendor/lenovo/kingdom/proprietary/vendor/framework/qcrilhook.jar:vendor/framework/qcrilhook.jar \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libdrmdecrypt.so:vendor/lib/libdrmdecrypt.so \
@@ -206,7 +205,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libthermalclient.so:vendor/lib/libthermalclient.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libthermalioctl.so:vendor/lib/libthermalioctl.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libtime_genoff.so:vendor/lib/libtime_genoff.so \
-    vendor/lenovo/kingdom/proprietary/vendor/lib/libuiblur.so:vendor/lib/libuiblur.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libwvm.so:vendor/lib/libwvm.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libxml.so:vendor/lib/libxml.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:vendor/lib/mediadrm/libwvdrmengine.so \
