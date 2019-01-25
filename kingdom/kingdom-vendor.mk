@@ -75,7 +75,7 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libwcnss_qmi.so:vendor/lib/libwcnss_qmi.so \
     vendor/lenovo/kingdom/proprietary/vendor/bin/thermal-engine:vendor/bin/thermal-engine \
     vendor/lenovo/kingdom/proprietary/vendor/etc/qcril.db:vendor/etc/qcril.db \
-    vendor/lenovo/kingdom/proprietary/vendor/firmware/libpn547_fw.so:vendor/firmware/libpn547_fw.so \
+    vendor/lenovo/kingdom/proprietary/vendor/lib/libpn547_fw.so:vendor/lib/libpn547_fw.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/drm/libdrmwvmplugin.so:vendor/lib/drm/libdrmwvmplugin.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/egl/eglsubAndroid.so:vendor/lib/egl/eglsubAndroid.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/egl/libEGL_adreno.so:vendor/lib/egl/libEGL_adreno.so \
